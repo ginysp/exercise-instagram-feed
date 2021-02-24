@@ -1,0 +1,33 @@
+body{
+    background: lightgray;
+}
+header{
+    background: white;
+}
+
+header h1{
+    margin: 0;
+}
+
+div.entry{
+    background: white;
+    width: 500px;
+    margin:auto;
+}
+
+div.entry img{
+    width: 100%;
+}
+
+div.entry h3{
+    padding: 5px;
+}
+
+div.photoname {
+    display: inline-block;    
+}
+
+div.photonumber {
+    display: inline-block;  
+    margin-left:65%;   
+}
